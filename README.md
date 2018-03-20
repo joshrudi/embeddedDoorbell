@@ -10,4 +10,4 @@ Below is the circuit needed in order to control the LED.
 Finally, here's the circuit for the Piezo buzzer.
 ![Alt text](/pics/Buzzer_Circuit.png?raw=false "Buzzer Circuit")
 
-* Note: For the Resistors in the above images, you just need a resistance value big enough to limit the current (so the sucker doen't blow itself out) and a similar value for the Pull-Up Res.
+* Note: For the Resistors in the above images, you just need a resistance value big enough to limit the current (so the sucker doesn't blow itself out) and a similar value for the Pull-Up Res.
